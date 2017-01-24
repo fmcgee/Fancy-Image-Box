@@ -6,7 +6,7 @@ Description: Simple WordPress light box plugin that uses fancybox jquery plugin 
 Version: 1.0
 Author: Francis Mcgee
 Author URI: http://webinception.co.uk
-License: http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution-NonCommercial 3.0
+License: MIT License
 */
 
 
